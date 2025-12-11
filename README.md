@@ -22,27 +22,27 @@ No pipeline tracks biodiversity drift over time or space
 
 A fully automated AI-driven eDNA intelligence pipeline that:
 
-🔬 1. Cleans and preprocesses raw DNA
+1. Cleans and preprocesses raw DNA
 
 Automated QC removes noise, trims low-quality reads, and extracts k-mers.
 
-🧬 2. Embeds sequences using DNABERT
+2. Embeds sequences using DNABERT
 
 Treats DNA like a language → converts sequences into meaningful embeddings.
 
-🐠 3. Classifies known species & clusters unknown ones
+3. Classifies known species & clusters unknown ones
 
 Hybrid ensemble models + unsupervised clustering.
 
-🌐 4. Predicts ecological roles
+4. Predicts ecological roles
 
 CNN–GNN hybrid model infers interactions such as predator–prey, competition, and food-chain networks.
 
-📊 5. Tracks biodiversity drift
+5. Tracks biodiversity drift
 
 Shows how species change based on season, location, depth, or expedition.
 
-🗺️ 6. Interactive Dashboard
+6. Interactive Dashboard
 
 Species maps
 
@@ -52,10 +52,10 @@ Shannon/Simpson indices
 
 Alerts for endangered/invasive species
 
-🤖 7. Built-in Chatbot
+7. Built-in Chatbot
 
 Explains results in simple language — useful for non-experts.
 
-🔗 8. Optional Blockchain Reporting
+8. Optional Blockchain Reporting
 
 Ensures scientific data integrity.
