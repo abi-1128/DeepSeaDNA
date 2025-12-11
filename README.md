@@ -1,16 +1,6 @@
 # The AI-Powered eDNA Analysis System is an end-to-end platform that analyzes environmental DNA (eDNA) from ocean water to automatically:
 
-Detect known species
-
-Identify potential new species
-
-Predict ecological interactions
-
-Track biodiversity drift across seasons and locations
-
-Provide visual insights through a modern dashboard
-
-Offer explanations using a built-in chatbot assistant
+Detect known species,Identify potential new species,Predict ecological interactions,Track biodiversity drift across seasons and locations,Provide visual insights through a modern dashboard and Offer explanations using a built-in chatbot assistant
 
 This system enables deep-sea biodiversity discovery even in regions where 91% of species remain unknown.
 
